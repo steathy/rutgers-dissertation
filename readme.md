@@ -2,7 +2,7 @@
 
 A latex template for Rutgers Ph.D. Dissertation. Last Updated 10/2019
 
-## Introduciton
+## Introduction
 
 This latex template is based on the style file by [rucsgss](https://github.com/rucsgss/thesis). I have made several necessary modifications according to the newest official [Rutgers University Thesis and Dissertation Style Guide](https://gsnb.rutgers.edu/academics/electronic-thesis-and-dissertation-style-guide). Dissertations using this template have been approved by [Graduate School](https://gsnb.rutgers.edu/academics/checklist-phd-degree) for 2019 October degree.
 
